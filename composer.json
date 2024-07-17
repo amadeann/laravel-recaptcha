@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "^7.18|^8",
-        "illuminate/http": "^7.18|^8"
+        "illuminate/support": "^7.18|^8|^9|^10||^11",
+        "illuminate/http": "^7.18|^8|^9|^10||^11"
     },
     "autoload": {
         "psr-4": {
